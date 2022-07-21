@@ -1,9 +1,1 @@
-What are you doing now?clear
-well done
-ok
-<<<<<<< HEAD
-well done
-Sure
-=======
-how are you?
->>>>>>> second
+Well Done
